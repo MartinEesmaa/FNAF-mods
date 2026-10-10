@@ -15,7 +15,11 @@ You need to mod or/and develop the fan mod game by
 
 ## Result screenshots
 
-Martin Eesmaa's Estonian fan translation project of FNAF 1 at title screen (coming soon)
+Martin Eesmaa's Estonian fan translation project of FNAF 1 at title screen:
+
+![pealkiriee](screenshots/01-pealkiriFNAF1.png)
+
+More screenshots are in folder: [screenshots](screenshots)
 
 ## Run the game
 
