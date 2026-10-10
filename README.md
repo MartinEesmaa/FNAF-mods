@@ -9,9 +9,8 @@ You need to mod or/and develop the fan mod game by
 - Latest version copy of Five Nights at Freddy's (v1.132)
 - Clickteam Fusion 2.5 (paid developer for executable applications, free only for HTML5 export)
 - Perspective.mfx extension module installed
-- HDiffPatch
 - Original MFA source project file (must have reverse engineered to dump MFA file with NebulaFD)
-- Delta Patcher to patch xdelta file
+- Delta Patcher to apply or create xdelta file
 
 ## Result screenshots
 

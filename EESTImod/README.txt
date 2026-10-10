@@ -6,7 +6,7 @@ Tõlgija: Martin Eesmaa
 
 Installida mängu modi, sul on vaja:
 - Originaali FNAF1 v1.132 Windowsi programm versioon pealt legaal
-- Delta Patcher (parem soovitav) või hpatchz
+- Delta Patcher (parem soovitav) või HDiffPatch
 
 1. Installi Delta Patcher juurde GitHub-ist:
 
