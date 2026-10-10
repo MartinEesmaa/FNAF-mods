@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="186"
+   height="58"
+   viewBox="0 0 186 58"
+   sodipodi:docname="valmis-ee.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="valmis-ee.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.7580645"
+     inkscape:cx="95.732203"
+     inkscape:cy="25.535593"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="186"
+       height="58"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAA6CAIAAACI3NR+AAAABnRSTlMAWgBaAFr2kMN3AAACt0lE&#10;QVR4nO2dXZLCIBCE49beUI7JIffB0sqaBJk/6JH+HldDeqAZJoLu7X6/b4T08TNbAMkE7UIE0C5E&#10;AO1CBNAuRADtQgTQLkQA7UIE/DZeq7WK2iqlqHVI7zVMgLTN6E47bd8S+FWzp2227KK+pV39YFzM&#10;ar91T7+VUo5qa62+U+WqtZDFqNY6cQDygt9vgbULeOSdjI/io2lOp75aZ39q2aJL3RSOwRSpcIwL&#10;7ZYFtUu7oavwdMvqxOrntDiwtNZ4tX0jadcpuloaqVt2KaWkq3A7iUs/5Yni1sOehvY4L0a+y+oA&#10;QLR5zbTocPgx3T8ewzYlTV6lmaAEo0gtW4RdvnJJAklCPYRKXTq7AJrAJcF8jEuXWrbF7fLGvsvm&#10;PpqFvt/SAu3ynTQSjCWnrmsXaa8BrlwvLAlGdK2/XdTr4lzARSrMenqJ0fTOdkGeglISlS+6SxRX&#10;edol6CgGDuCT4djVb4Lt+n3Ou7j3o6JB6faKtP3suBQJArtED+FErnT6bjcO4Cj4at9RNzSBT0ZZ&#10;vCIil3teeMkOsQv47nTSIe/kYwVz+p5OPM/qIlukQVt2uvUoFOej3V6OQXaeY5hBtC1uEW86TXd6&#10;JN0oKJpFUkVQUjTVLuA1Sg/Z9UsxxutQ6vZkndQkDfAo2z43fJ6MsnQopqojsPtunqVuRrIYCATP&#10;bwK8/eW7R+K7o7tiofMuWQYYWaenXVZLMMMAKVy2pbJLCsAnmHOp278jOhiXZ43o0PAPDDG7oACe&#10;Vx6M+FoaYEdATdnGL3RA6dwWyS5efvWdCfVJ/+2mE/Ixnb2C0Q0DYP+q/QQYy7ZIdnkDcyT2wCqM&#10;sgtOBeN73+i4wDf5V98zwgHZJS+G2gXhM5jpAvZAienhxv+WRvpZsdQlamgXIoB2IQJoFyKAdiEC&#10;aBcigHYhAv4ANxdbghKUIJkAAAAASUVORK5CYII=&#10;"
+       id="image1"
+       style="display:none" />
+    <rect
+       style="fill:#535353;fill-opacity:1;stroke-width:13.8266;stroke-linejoin:bevel;stroke-dashoffset:70.6772;paint-order:stroke fill markers"
+       id="rect1"
+       width="186"
+       height="58"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.9122px;line-height:100.5%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:23.9927;stroke-linejoin:bevel;stroke-dashoffset:70.6772;paint-order:stroke fill markers"
+       x="100.29702"
+       y="45.7934"
+       id="text1"
+       transform="scale(0.95130771,1.0511846)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="100.29702"
+         y="45.7934"
+         style="stroke-width:23.9927">VALMIS</tspan></text>
+  </g>
+</svg>

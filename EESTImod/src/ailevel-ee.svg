@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="212.80452"
+   height="34.571751"
+   viewBox="0 0 212.80452 34.571751"
+   sodipodi:docname="ailevel-ee.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="ailevel-ee.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4923858"
+     inkscape:cx="98.277401"
+     inkscape:cy="24.597175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(10.239548,5.5649717)">
+    <rect
+       style="display:none;fill:#000000;stroke-width:9.91686;stroke-linejoin:bevel;stroke-dashoffset:70.6772;paint-order:stroke fill markers"
+       id="rect1"
+       width="210.13333"
+       height="48.749153"
+       x="-8.4587574"
+       y="-14.468926" />
+    <image
+       width="197"
+       height="25"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAAZCAIAAAAOpn3zAAAABnRSTlMAWgBaAFr2kMN3AAABmUlE&#10;QVR4nO2aWxLDIAhF005WGdfnPvuRjklECSg+0t7z17xgBC+ofW3btgDA4r1PXnfORVdWyfv0NUNy&#10;vkY09UFL8Hkqr2bgPdoB8FOk9WnHObdPRO89JuI/E0WfKSmJfBIWICtyviKDnwjqHbBEmk+dRQs8&#10;lLjeReUmtFDAHDqwTImXtwG3T6rsauH6cdCI3BTdr/PRrVkb1dgVouifIFQm3A5jzTgz4tTUbuCi&#10;T0lvUPLakVvbUhGyjYLcrhas77pynrE0csJY8mWrnV0JunyCUJnAxC/cqumac0+W2VVx5BNTerG1&#10;aMKo2djTLtZ3A6gPMG10JBsKHRIL/dOTmL9QfPOpYLsMAEp2fxy0o0Zmkn/6EMpBB3lDvQOWvBe9&#10;JvHP+xNVrikZZbcAKw+DUO0/Z+hVLvWu3qHogW5/xBtlV4XVHrf2Oz1POFDvxsDoaFOJbW13LfuE&#10;oQAITw8m1JtFINj8MVxx/Kjk3HbixXYlxziBQ58kAZszqM/CdgzlmdEndsb1jk5H2+/PZreM5KGs&#10;8G7ulSF2KR9YFBJCUP00VgAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="display:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:48.3929px;line-height:100.5%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:20.0489;stroke-linejoin:bevel;stroke-dashoffset:70.6772;paint-order:stroke fill markers"
+       x="97.760765"
+       y="26.722269"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="97.760765"
+         y="26.722269"
+         style="stroke-width:20.0489">A.I Tase</tspan></text>
+  </g>
+</svg>

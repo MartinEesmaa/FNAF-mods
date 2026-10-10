@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="203.22939"
+   height="42.17514"
+   viewBox="0 0 203.22939 42.17514"
+   sodipodi:docname="newgame-ee.svg"
+   inkscape:export-filename="newgame-ee.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.3596059"
+     inkscape:cx="98.288701"
+     inkscape:cy="13.877401"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="203.22939"
+       height="42.17514"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="203"
+       height="33"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMsAAAAhCAIAAAD4RsiAAAAABnRSTlMAWgBaAFr2kMN3AAACbklE&#10;QVR4nO2cXZLDIAiAm509ZTyf52wfOpvJRkVAQPz53jZJIwICUrvHeZ6vjSgxxtKtEIKlJB443u/3&#10;41JVC3cNLqgyAMC37iyltJ/eAkxCjBHpXi+0I87Bb3opxrjUImsn6zFZHS7lW18yHrYhkToNsD6/&#10;t5bys3yWXEoFLZDci/TMNOw6TJKlXAfJvywZQtCIXvgyZSwe85KdUckQvFGA7T+vM4C3abEOE6n3&#10;AX/93ioNwW6IjN5Jqa5wWG/3N1zPVK1w/5PUq8LIppglMeGQtMl3hUYA0+h3pE9eVxiaZ9j0GcPu&#10;ibIljMEGYCyd1UgV0hJv0j1s6RbwWp5NVboV1fW94KYdiUano/pODGybZrLk/cPtToCc3ljeplTj&#10;U98DKw2o2KrFHAzJpvJ12Oi1tnO6qLTFpnkPM4suvIHiHzpCbZp42FTxW6O+Aax7+IQXgI14IhVY&#10;46eEs6RUXMH0ewSH2wA0KrnoYeOW4RtXKGZJe790tRKqDS0YV3O5YEgFZUknYQzoE768WoLNfJuY&#10;fbbCETM51kUlS7Z8idR9NzcWQxyU7b+XVCVNkY/rZhgIEEKYY4nWPcxJNZYi3uzpiOpRs774jWEz&#10;aXllUB6GN7ZewCulSI2xMHTP1GY02pQcw1ypcsE450r/GHSz5HDqIGEfxjzokyoD1sN4iZIhUBY4&#10;RQoO1IiUDNn3+GlSkCRRiWGpQNWzcmz1eTvBUZoL9ahFeiiZJaAYbJsSvpck/dYtfdhMR8Y+l1WL&#10;bOSuDmcDz6aKdZi4pd3W9dTuaPbh6hs89GAZAhw2/z/Mw3E8G4CZIqeZvsGnfpA2/QBAfaxtEQ0k&#10;tAAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="display:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:46.0733px;line-height:100.5%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:19.0878;stroke-linejoin:bevel;stroke-dashoffset:70.6772;paint-order:stroke fill markers"
+       x="98.873123"
+       y="31.607904"
+       id="text1"
+       transform="scale(1.0226493,0.97785234)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="98.873123"
+         y="31.607904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffffff;stroke-width:19.0878">Uus mäng</tspan></text>
+  </g>
+</svg>
