@@ -5,8 +5,8 @@ Programmid on kasutatud: Inkscape & GIMP
 Tõlgija: Martin Eesmaa
 
 Installida mängu modi, sul on vaja:
-- Originaali FNAF1 v1.132 Windows programm versioon pealt legaal
-- Delta Patcher (soovitav) või hpatchz
+- Originaali FNAF1 v1.132 Windowsi programm versioon pealt legaal
+- Delta Patcher (parem soovitav) või hpatchz
 
 1. Installi Delta Patcher juurde GitHub-ist:
 
@@ -27,6 +27,6 @@ Kui sa ei soovi teha varundada, siis võib ülekirjutada ilma varundamise eest.
 
 Kui sa ei tea mida teha või vajad abi, siis andge mulle teada minu GitHub-ist (MartinEesmaa). Äitah!
 
-Lähtefailid on saadaval GitHub-is: https://github.com/MartinEesmaa/FNAF-mods/EESTImod/src
+Lähtefailid on saadaval GitHub-is: https://github.com/MartinEesmaa/FNAF-mods/tree/master/EESTImod/src
 
 - 2026 Martin Eesmaa
